@@ -1,24 +1,61 @@
-<!-- 
-Hi there 👋 Welcome to my GitHub Profile README
+<!-- ================= HERO SECTION ================= -->
 
-Customize:
-- Name
-- Links
-- Projects
-- Skills
--->
+<div align="center">
 
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm **Provash Ray**
 
-## 🚀 Full Stack Developer | AI Engineer | Software Engineer
+### 🚀 Full Stack Developer | AI Engineer | Backend Architect
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+AI+Agents+%26+LLM+Systems;Full+Stack+%7C+Backend+%7C+AI+Engineering" />
+<p>
+Building scalable web applications, intelligent AI systems,
+and production-ready software solutions.
 </p>
 
 
+<p align="center">
+  <img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+AI-Powered+Applications;Exploring+LLMs+%26+AI+Agents;Designing+Scalable+Backend+Systems;Passionate+About+Clean+Architecture" 
+  />
+</p>
+
+
+<p>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+
+
+</div>
+
+
 ---
+
+## 👨‍💻 Who Am I?
+
+
+I'm a Full Stack Developer focused on creating scalable,
+maintainable and intelligent software solutions.
+
+I enjoy transforming ideas into real-world applications
+by combining modern web technologies with AI.
+
+
+Currently working with:
+
 
 # 👨‍💻 About Me
 
