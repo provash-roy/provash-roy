@@ -2,124 +2,197 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Provash Ray**
+# 👋 Hi, I'm **Provash Roy**
 
-### 🚀 Full Stack Developer | AI Engineer | Backend Architect
+### Full Stack Developer | AI Engineer | Backend Architect
 
 
 <p>
-Building scalable web applications, intelligent AI systems,
+Building scalable web applications, AI-powered systems,
 and production-ready software solutions.
 </p>
 
 
-<p align="center">
+<p>
   <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+AI-Powered+Applications;Exploring+LLMs+%26+AI+Agents;Designing+Scalable+Backend+Systems;Passionate+About+Clean+Architecture" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Application+Engineer;Building+LLM+Powered+Applications;Exploring+AI+Agents+%26+RAG;Designing+Scalable+Backend+Systems" 
   />
 </p>
 
 
 <p>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="YOUR_LINKEDIN">
+<img src="https://[img.shields.io/badge/LinkedIn-0A66C2](https://www.linkedin.com/in/provash-roy-687a703a0/)?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
-
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </div>
 
 
 ---
 
-## 👨‍💻 Who Am I?
-
-
-I'm a Full Stack Developer focused on creating scalable,
-maintainable and intelligent software solutions.
-
-I enjoy transforming ideas into real-world applications
-by combining modern web technologies with AI.
-
-
-Currently working with:
-
-
 # 👨‍💻 About Me
 
 
-I'm a passionate Full Stack Developer who loves building scalable,
-high-performance applications and intelligent AI-powered systems.
+Hi, I'm **Provash Roy**, a passionate **Full Stack Developer and AI Engineer** focused on building scalable, intelligent, and production-ready software systems.
 
-My interests include:
+
+I love transforming ideas into real-world applications by combining:
+
+- Modern Web Technologies
+- Scalable Backend Architecture
+- Artificial Intelligence
+- Large Language Models
+- Cloud Infrastructure
+
+
+### 🚀 My Areas of Interest
+
 
 - 🌐 Full Stack Web Development
-- ⚙️ Backend Architecture
-- 🤖 AI Agents & LLM Applications
+- ⚙️ Backend Engineering & System Design
+- 🤖 LLM Applications & AI Agents
 - 🔍 Retrieval Augmented Generation (RAG)
-- 🏗️ System Design
 - 🧩 Data Structures & Algorithms
 
 
-Currently exploring:
+### 🌱 Currently Exploring
 
-- LangGraph
+
 - LangChain
+- LangGraph
 - AI Agent Architecture
-- Distributed Systems
-- Cloud Infrastructure
+- RAG Pipeline Optimization
+- Vector Databases
+- Cloud Native Applications
+- Scalable System Design
 
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
 
-## 🎨 Frontend
+## 🎨 Frontend Development
+
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
 </p>
 
 
-## ⚙️ Backend
+**Technologies:**
+
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Modern UI Architecture
+- Responsive Web Design
+
+
+
+---
+
+## ⚙️ Backend Development
+
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java" />
 </p>
 
 
-## 🗄️ Database
+**Technologies:**
+
+- Node.js
+- Express.js
+- NestJS
+- Python
+- Java
+- REST API Development
+- Backend Architecture
+- Authentication & Authorization
+
+
+
+---
+
+## 🗄️ Database & Storage
+
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
 
+**Experience With:**
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+- Database Design
+- Query Optimization
+- Data Modeling
+
+
+
+---
+
 ## 🤖 AI / Machine Learning
+
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
 
-Tools & Platforms:
+**Working With:**
+
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval Augmented Generation (RAG)
+- LangChain
+- LangGraph
+- Prompt Engineering
+- Vector Search
+- AI Application Architecture
+
+
+
+---
+
+## ☁️ Tools & Platforms
+
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vercel" />
 </p>
+
+
+**Tools:**
+
+- Git & GitHub
+- Docker
+- Linux
+- AWS
+- Vercel
+- CI/CD
+- Cloud Deployment
+
 
 
 ---
@@ -127,19 +200,35 @@ Tools & Platforms:
 # 🚀 Currently Building
 
 
-### 🤖 AI Application Platform
-
-- Conversational AI system
-- RAG based knowledge assistant
-- AI Agent workflow
-- Memory enabled chatbot
+## 🤖 AI Application Platform
 
 
-### 🌐 Full Stack Applications
+Building intelligent AI systems with:
 
-- SaaS applications
-- REST API systems
-- Scalable backend services
+
+- 💬 Conversational AI Assistant
+- 🧠 Long-term Memory System
+- 🔍 RAG-based Knowledge Retrieval
+- 🛠️ AI Agent Workflows
+- ⚡ Real-time Streaming Responses
+- 🗂️ Vector Database Integration
+
+
+
+---
+
+## 🌐 Full Stack SaaS Applications
+
+
+Developing scalable applications with:
+
+
+- Modern Frontend Architecture
+- Secure Backend APIs
+- Database Optimization
+- Authentication Systems
+- Cloud Deployment
+
 
 
 ---
@@ -149,7 +238,97 @@ Tools & Platforms:
 
 ## 🤖 AI Chat Assistant
 
-> Intelligent conversational AI with memory, tools and RAG capability.
+
+> Intelligent conversational AI platform with memory, tools, and RAG capabilities.
 
 
-Tech Stack:
+### Features:
+
+- Context-aware conversations
+- Document-based question answering
+- AI Agent workflows
+- Streaming responses
+- Persistent memory
+
+
+### Tech Stack:
+
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Vector Database` `LangGraph` `LLM API`
+
+
+
+---
+
+## 🧠 RAG Knowledge Assistant
+
+
+> AI-powered knowledge retrieval system that allows users to interact with their own documents.
+
+
+### Features:
+
+- Document ingestion pipeline
+- Text embedding generation
+- Semantic search
+- Context retrieval
+- AI-generated answers
+
+
+
+### Tech Stack:
+
+`Python` `LangChain` `Vector DB` `LLM` `FastAPI`
+
+
+
+---
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+
+---
+
+# 🏆 Goals
+
+
+🚀 Build production-grade AI applications
+
+🤖 Create intelligent AI Agent systems
+
+🏗️ Master scalable backend architecture
+
+☁️ Design cloud-native applications
+
+🧠 Continuously improve software engineering skills
+
+
+
+---
+
+# 🤝 Let's Connect
+
+
+I'm always interested in collaborating on:
+
+- AI-powered applications
+- Open-source projects
+- Full Stack Development
+- Backend Engineering
+- Innovative Software Solutions
+
+
+<p align="center">
+
+⭐ If you like my work, consider giving my repositories a star!
+
+</p>
