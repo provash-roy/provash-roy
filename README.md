@@ -4,7 +4,7 @@
 
 # 👋 Hello, My name is **Provash Roy**
 
-### Full Stack Developer | AI Application Engineer
+### Full Stack Developer | AI Application Developer
 
 
 <p>
@@ -240,6 +240,16 @@ I enjoy transforming ideas into real-world products using modern technologies.
 
 </td>
 
+<td align="center" width="150">
+
+<img src="https://skillicons.dev/icons?i=Rest-api" width="45"/>
+
+<br/>
+
+<b>Rest API</b>
+
+</td>
+
 
 
 <td align="center" width="150">
@@ -266,6 +276,15 @@ I enjoy transforming ideas into real-world products using modern technologies.
 
 
 
+
+
+
+</tr>
+
+
+
+<tr>
+
 <td align="center" width="150">
 
 <img src="https://cdn.simpleicons.org/prisma/2D3748" width="45"/>
@@ -275,13 +294,6 @@ I enjoy transforming ideas into real-world products using modern technologies.
 <b>Prisma ORM</b>
 
 </td>
-
-
-</tr>
-
-
-
-<tr>
 
 
 
@@ -333,15 +345,7 @@ I enjoy transforming ideas into real-world products using modern technologies.
 
 
 
-<td align="center" width="150">
 
-<img src="https://skillicons.dev/icons?i=graphql" width="45"/>
-
-<br/>
-
-<b>GraphQL</b>
-
-</td>
 
 
 </tr>
@@ -357,7 +361,7 @@ I enjoy transforming ideas into real-world products using modern technologies.
 <!-- ================= DATABASE SECTION ================= -->
 
 
-<h2>🗄️ Databases & Storage</h2>
+<h2>🗄️ Databases</h2>
 
 
 <table>
@@ -709,15 +713,6 @@ I enjoy transforming ideas into real-world products using modern technologies.
 
 
 
-<td align="center" width="150">
-
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45"/>
-
-<br/>
-
-<b>GitHub Actions</b>
-
-</td>
 
 
 </tr>
@@ -735,68 +730,57 @@ I enjoy transforming ideas into real-world products using modern technologies.
 ---
 
 
-<h2>🏗️ Software Architecture & Engineering</h2>
+<h2>🏗️ Software Architecture & Engineering Concepts</h2>
 
 
 <table>
 
-
 <tr>
 
-
 <td align="center" width="150">
-
 <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="45"/>
 
-<br/>
+<br />
 
-<b>System Design</b>
+<b>MVC Architecture</b>
 
 </td>
 
 
-
 <td align="center" width="150">
-
 <img src="https://cdn.simpleicons.org/nodered/8F0000" width="45"/>
 
-<br/>
+<br />
 
 <b>Service Layer</b>
 
 </td>
 
 
-
 <td align="center" width="150">
-
 <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="45"/>
 
-<br/>
+<br />
 
 <b>Event Driven</b>
 
 </td>
 
 
-
 <td align="center" width="150">
-
 <img src="https://cdn.simpleicons.org/webhooks/FF6C37" width="45"/>
 
-<br/>
+<br />
 
 <b>Webhooks</b>
 
 </td>
 
 
-
 <td align="center" width="150">
+<img src="https://cdn.simpleicons.org/microgenetics/000000" width="45"/>
 
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="45"/>
-
-<br/>
+<br />
 
 <b>Microservices</b>
 
@@ -805,40 +789,4 @@ I enjoy transforming ideas into real-world products using modern technologies.
 
 </tr>
 
-
 </table>
-
-
-<br/>
-
-
----
-
-
-
-
-
-# 📊 GitHub Statistics
-
-
-<div align="center">
-
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
-/>
-
-
-<br/>
-
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"
-/>
-
-
-</div>
-
-
----
-
