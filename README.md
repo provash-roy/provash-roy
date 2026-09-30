@@ -1,6 +1,6 @@
 ## 👋 About Me:
 
-A **Full Stack Developer** building scalable web applications, AI-powered systems, and intelligent digital experiences.
+A **Full Stack Developer** building scalable web applications, AI-powered systems and intelligent digital experiences.
 
 ## 💻 Tech Stack:
 
