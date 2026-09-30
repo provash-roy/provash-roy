@@ -1,8 +1,6 @@
 ## 👋 About Me:
 
-Hi, I'm Provash Roy, a **Full Stack Developer** building scalable web applications and AI-powered systems.
-
-**LinkedIn:** [Provash Roy](https://www.linkedin.com/in/provash-roy-687a703a0/) • **Portfolio:** [My Portfolio](YOUR_PORTFOLIO) • **Email:** [provashray94@gmail.com](mailto:provashray94@gmail.com)
+A **Full Stack Developer** building scalable web applications, AI-powered systems, and intelligent digital experiences.
 
 ## 💻 Tech Stack:
 
@@ -14,3 +12,7 @@ Hi, I'm Provash Roy, a **Full Stack Developer** building scalable web applicatio
 | **AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-6A5ACD?style=flat-square) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
 | **Authentication & Services** | ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
+
+## 🤝 Let's Connect
+
+**LinkedIn:** [Provash Roy](https://www.linkedin.com/in/provash-roy-687a703a0/) • **Portfolio:** [My Portfolio](https://provash-portfolio.vercel.app/) • **Email:** [provashray94@gmail.com](mailto:provashray94@gmail.com)
